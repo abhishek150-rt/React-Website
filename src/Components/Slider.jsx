@@ -12,7 +12,7 @@ const Slider = () => {
                 src={e.source}
                 className="d-block w-100 carousel-img"
                 alt={e.alt}/>
-              <Carousel.Caption className="my-5">
+              <Carousel.Caption className="mt-5">
                 <h1 className="fw-bolder">{e.desc}</h1>
                 <p>
                   Nulla vitae elit libero, a pharetra augue mollis interdum.
